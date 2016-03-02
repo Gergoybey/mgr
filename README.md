@@ -1,1 +1,1 @@
-# mgr
+Repozytorium pracy magisterskiej 
