@@ -1,1 +1,1 @@
-Repozytorium pracy magisterskiej 
+Aplikacja internetowa klasy ERP dla przedsiębiorstwa transportowego.
