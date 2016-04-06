@@ -1,9 +1,9 @@
-## Aplikacja mobilna do organizacji przewozu.
+### Aplikacja mobilna do organizacji przewozu.
 
-Daniel Małyszczuk
+## Daniel Małyszczuk
 
 ## Słowa Kluczowe:
-### Transport ### Mobilna ### Aplikacja ### Android ### Przeprowadzka ### Przewóz ### Java 
+### Transport Mobilna Aplikacja Android Przeprowadzka Przewóz Java 
 
 ## Wstęp
 
