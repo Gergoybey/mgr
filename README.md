@@ -3,7 +3,7 @@
 Daniel Małyszczuk
 
 ## Słowa Kluczowe:
-# Transport #Mobilna #Aplikacja #Android #Przeprowadzka #Przewóz #Java 
+### Transport ### Mobilna ### Aplikacja ### Android ### Przeprowadzka ### Przewóz ### Java 
 
 ## Wstęp
 
