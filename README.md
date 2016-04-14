@@ -2,11 +2,11 @@
 
 #### Daniel Małyszczuk
 
-## Słowa Kluczowe:
+### Słowa Kluczowe:
 
 Transport, Mobilna Aplikacja, Android, Przeprowadzka, Przewóz, Java 
 
-## Wstęp
+### Wstęp
 
 Innowacyjne aplikacje mobilne umożliwiające świadczenie rozmaitych usług stały się efektywnym narzędziem do
 zaspokajania potrzeb użytkowników. Wygoda obsługi powoduje iż są one powszechnie stosowane również w transporcie. W ramach
