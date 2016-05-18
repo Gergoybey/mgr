@@ -24,3 +24,7 @@ Naturalnym staję się stworzenia aplikacji odpowiadającej powyższym potrzebom
 niniejszej pracy ma pozwalać na rejestrację zamówienia transportowego, użytkownik przy użyciu formularza określa miejsce
 odbioru i destynacji oraz podstawowe dane ładunku. Z drugiej strony zainteresowani świadczeniem usług, oferują swoje pojazdy lub gotowość do przewozu. 
 
+### Bibliografia
+Nielsen J., Budiu R., 2013. Funkcjonalność aplikacji mobilnych. Nowoczesne standardy UX i UI. Wydadawnictwo: Helion.
+Wantoch-Rekowski R., 2014. Android w praktyce. Projektowanie aplikacji. Wydawnictwo: Wydawnictwo Naukowe PWN.
+[Vielhaber J., Mobile Applications in Transportation. (18.05.2016)](http://www.supplychainbrain.com/content/nc/technology-solutions/all-technology/single-article-page/article/mobile-applications-in-transportation/)
